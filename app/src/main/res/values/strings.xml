@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UTS_PAPB2_Luthfia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_seeMore">See all sensors...</string>
+    <string name="label_seeLightSensor">See light sensor only...</string>
+    <string name="title1">Light Sensor</string>
+    <string name="desc">Among the various lists above, there is an ambient light sensor that is used to detect light around the device. The sensor can affect the brightness of the light on the device screen.</string>
+    <string name="btn_label">See Implementation</string>
+    <string name="title2">Value light sensor :</string>
+    <string name="action_language">Language</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="label_marker">This is your current location</string>
+    <string name="info1">Have a good activity!</string>
+    <string name="info2">Have a good rest!</string>
+</resources>
